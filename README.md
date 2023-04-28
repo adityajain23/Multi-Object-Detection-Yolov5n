@@ -24,12 +24,12 @@ Experimental results, predictions, weights and configs are available at: https:/
 
 
 ### Run predictions
-To run predictions, 
-```
-Upload test images in the 'test_images' folder
-Change the predict.py file according to the model that you want to use
-customize the prediction parameters like IOU threshold, confidence parameters according to the user's requirement
-run the file using command: python predict.py
+
+To run predictions:
+* Upload test images in the 'test_images' folder
+* Change the predict.py file according to the model that you want to use
+* customize the prediction parameters like IOU threshold, confidence parameters according to the user's requirement
+* run the file using command: python predict.py
 
 For more information checkout this page: [link](https://docs.ultralytics.com/modes/predict/) 
 
@@ -44,10 +44,8 @@ https://drive.google.com/drive/folders/1DjeNxdaF7AW3Nu54_3oRw_1SeYJtOvNL
 To run test execute the following code:
 
 ```
-python test.py
+python <model>.py
 ```
-
-![test_example](https://github.com/maartensukel/yolov3-pytorch-garbage-detection/raw/master/test_batch0.jpg)
 
 Different number of experiments were conducted. Test results are as follows:
 
