@@ -8,7 +8,7 @@ This repository combines elements from:
 * https://github.com/ultralytics/ultralytics/tree/main/ultralytics
 * https://docs.ultralytics.com/modes/train/
 
-![Demo 1](images/../Submission/images/demo_1.png)
+![Demo 1](demo_1.png)
 
 
 ## Installation
